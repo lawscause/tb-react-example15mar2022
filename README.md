@@ -3,7 +3,7 @@ Examples for March 15th, 2022 class
 on React Components and Props
 
 ## [React Components](https://www.w3schools.com/react/react_components.asp)
-##[React Class Components](https://www.w3schools.com/react/react_class.asp)
+## [React Class Components](https://www.w3schools.com/react/react_class.asp)
 ## [React Props](https://www.w3schools.com/react/react_props.asp)
 
 # Getting Started with Create React App
