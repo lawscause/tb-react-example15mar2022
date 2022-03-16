@@ -1,3 +1,11 @@
+# tb-react-example15mar2022
+Examples for March 15th, 2022 class
+on React Components and Props
+
+[React Components](https://www.w3schools.com/react/react_components.asp)
+[React Class Components](https://www.w3schools.com/react/react_class.asp)
+[React Props](https://www.w3schools.com/react/react_props.asp)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# tb-react-example15mar2022
+
